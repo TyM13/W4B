@@ -1,0 +1,36 @@
+#grid_container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+
+#section_one{
+    background-color: blue;
+
+}
+
+#section_two{
+    background-color: aqua;
+    
+}
+
+#section_three{
+    background-color: darkgray;
+    
+}
+
+#section_four{
+    background-color: chocolate;
+}
+
+
+
+img{
+    width: 10vw;
+    height: 15vh;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
